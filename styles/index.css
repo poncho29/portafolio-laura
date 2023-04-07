@@ -1,0 +1,13 @@
+:root {
+  --primary: #F2D0A4;
+  --secondary: #FFECCC;
+  --green: #C8D6AF;
+  --black: #000000;
+  --white: #FFFFFF;
+
+  --content: 1200px;
+}
+
+.container {
+  max-width: var(--content);
+}
